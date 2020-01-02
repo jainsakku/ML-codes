@@ -1,1 +1,1 @@
-some basic machine learning algorithms for practice
+some basic machine learning code for text-classification
